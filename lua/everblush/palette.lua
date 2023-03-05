@@ -20,6 +20,7 @@ local palette = {
     background = '#141b1e',
     foreground = '#dadada',
     cursorline = '#2c3333',
+    ogpurple = "#ff00d7",
     none = 'NONE',
 }
 

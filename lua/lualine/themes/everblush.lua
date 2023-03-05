@@ -3,8 +3,8 @@ local p = require('everblush.palette')
 return {
     normal = {
         a = { bg = p.color2, fg = p.background },
-        b = { bg = p.background, fg = p.color7 },
-        c = { bg = p.background, fg = p.foreground },
+        b = { bg = nil, fg = p.color7 },
+        c = { bg = nil, fg = p.foreground },
     },
     insert = {
         a = { bg = p.color10, fg = p.background },

@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Everblush/assets/main/logo.png" height="200px" width="200px" alt="logo" />
-</div>
-
 <h1 align="center">Everblush for <a href="https://github.com/neovim/neovim">Neovim</a></h1>
 
 <h4 align="center"><i>A dark, vibrant, and beautiful color scheme for Neovim</i></h4>

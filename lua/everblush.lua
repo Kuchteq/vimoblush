@@ -4,7 +4,7 @@ local M = {}
 
 local config = {
 	override = {},
-	transparent_background = false,
+	transparent_background = true,
     nvim_tree = {
         contrast = false,
     },
@@ -33,10 +33,6 @@ function M.colorscheme()
 		end
 	end
 
-	-- Set user highlights
-	for group, color in pairs(config.override) do
-		util.highlight(group, color)
-	end
 end
 
 return M
