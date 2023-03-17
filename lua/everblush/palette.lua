@@ -1,5 +1,5 @@
 local palette = {
-    color0 = '#232a2d',
+    color0 = '#525E5E',
     color1 = '#e57474',
     color2 = '#8ccf7e',
     color3 = '#e5c76b',
@@ -15,11 +15,11 @@ local palette = {
     color13 = '#ce89df',
     color14 = '#67cbe7',
     color15 = '#bdc3c2',
-    comment = '#404749',
+    comment = '#4A4F53',
     contrast = '#161d1f',
     background = '#141b1e',
     foreground = '#dadada',
-    cursorline = '#2c3333',
+    cursorline = '#242A2A',
     ogpurple = "#ff00d7",
     none = 'NONE',
 }
