@@ -1,7 +1,13 @@
 local M = {}
 
 function M.get(config)
-    local p = require('everblush.palette')
+    local p
+
+    if config.lightmode then
+	    p = require('everblush.palette-light')
+    else
+	    p = require('everblush.palette')
+    end
 
     local theme = {}
 

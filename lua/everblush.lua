@@ -5,6 +5,7 @@ local M = {}
 local config = {
 	override = {},
 	transparent_background = true,
+	lightmode = false,
     nvim_tree = {
         contrast = false,
     },
