@@ -84,7 +84,7 @@ function M.get(config)
         SpellLocal = { fg = p.color4 },
         SpellRare = { fg = p.color6 },
         Statement = { fg = p.color6 },
-        StatusLine = { fg = foreground, bg = background },
+        StatusLine = { fg = p.foreground, bg = background },
         StatusLineNC = { bg = background, fg = p.background },
         Storage = { fg = p.color9 },
         StorageClass = { fg = p.color7 },
