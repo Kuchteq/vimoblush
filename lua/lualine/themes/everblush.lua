@@ -7,7 +7,7 @@ return {
         c = { bg = nil, fg = p.foreground },
     },
     insert = {
-        a = { bg = p.color10, fg = p.background },
+        a = { bg = p.color5, fg = p.background },
         b = { bg = p.background, fg = p.color4 },
     },
     command = {
