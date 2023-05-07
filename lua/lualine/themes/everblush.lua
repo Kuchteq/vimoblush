@@ -19,7 +19,7 @@ return {
         b = { bg = p.background, fg = p.color6 },
     },
     replace = {
-        a = { bg = p.color1, fg = p.background },
+        a = { bg = p.color11, fg = p.background },
         b = { bg = p.background, fg = p.color11 },
     },
     inactive = {
