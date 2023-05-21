@@ -1,4 +1,8 @@
-local p = require('everblush.palette')
+if SYSTHEME == 'light' then
+    p = require('everblush.palette-light')
+else
+    p = require('everblush.palette')
+end
 
 return {
     normal = {
