@@ -19,7 +19,7 @@ local palette = {
     contrast = '#161d1f',
     background = '#ffffff',
     foreground = '#000000',
-    cursorline = '#c9d0d0',
+    cursorline = '#dfe3e3',
     ogpurple = "#ff00d7",
     none = 'NONE',
 }
