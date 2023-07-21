@@ -110,6 +110,7 @@ function M.get(config)
         Whitespace = { fg = p.color1 },
         WildMenu = { fg = p.color7, bg = p.color4 },
         lCursor = { fg = p.foreground, bg = p.foreground },
+        WinSeparator = { fg = p.foreground, bg = background },
 
         -- bufferline.nvim: https://github.com/akinsho/bufferline.nvim
         BufferLineFill = { fg = p.background, bg = background },
